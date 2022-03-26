@@ -3,10 +3,12 @@ VTA Java Assignment
 
 1.Write a java program which displays a different message depending on the age 
 given. Here are the possible responses:
+
  Age is less than 16 should display “You cannot drive.”’
  Age is less than 18 should display “You cannot vote.”
  Age is less than 25 should display “You cannot rent a House.”
  Age is 25 or over should display “You can do anything that is legal.”
+
 Notice that a person who is under 16 should get three messages.
 
 2.Write a java program to pick a random number from 1 to 10 and have the user try to guess 
